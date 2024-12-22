@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
