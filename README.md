@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/janviuttam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/janviuttam/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/janviuttam/LeetCode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/janviuttam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Simulation
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/janviuttam/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/janviuttam/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/janviuttam/LeetCode/tree/master/0048-rotate-image) |
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/janviuttam/LeetCode/tree/master/0147-insertion-sort-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/janviuttam/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
