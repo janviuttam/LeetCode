@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/janviuttam/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/janviuttam/LeetCode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/janviuttam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janviuttam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/janviuttam/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/janviuttam/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/janviuttam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/janviuttam/LeetCode/tree/master/0048-rotate-image) |
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
