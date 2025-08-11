@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/janviuttam/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/janviuttam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
 ## Linked List
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/janviuttam/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/janviuttam/LeetCode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/janviuttam/LeetCode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/janviuttam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/janviuttam/LeetCode/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/janviuttam/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/janviuttam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
