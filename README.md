@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/janviuttam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/janviuttam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/janviuttam/LeetCode/tree/master/0043-multiply-strings) |
+| [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/janviuttam/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/janviuttam/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janviuttam/LeetCode/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/janviuttam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/janviuttam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/janviuttam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
