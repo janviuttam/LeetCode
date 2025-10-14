@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janviuttam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/janviuttam/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/janviuttam/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Monotonic Stack
 |  |
 | ------- |
