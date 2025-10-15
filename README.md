@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/janviuttam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janviuttam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/janviuttam/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/janviuttam/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/janviuttam/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/janviuttam/LeetCode/tree/master/0792-binary-search) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/janviuttam/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/janviuttam/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/janviuttam/LeetCode/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
