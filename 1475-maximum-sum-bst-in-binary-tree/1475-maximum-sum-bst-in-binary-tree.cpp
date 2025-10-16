@@ -9,41 +9,58 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class info {
-public:
-    bool isbst;
-    int min;
-    int max;
-    int sum;
-};
-
 class Solution {
 public:
-    info largebst(TreeNode* root, int &ans) {
-        if (root == NULL) {
-            return {true, INT32_MAX, INT32_MIN, 0};
-        }
-
-        info left = largebst(root->left, ans);
-        info right = largebst(root->right, ans);
-
-        info curr;
-        curr.sum = left.sum + right.sum + root->val;
-        curr.min = min(root->val, left.min);
-        curr.max = max(root->val, right.max);
-        curr.isbst = left.isbst && right.isbst && 
-                     root->val > left.max && root->val < right.min;
-
-        if (curr.isbst) {
-            ans = max(ans, curr.sum);
-        }
-
-        return curr;
-    }
-
     int maxSumBST(TreeNode* root) {
-        int maxsum = 0;
-        largebst(root, maxsum);
-        return maxsum;
+        if (!root) return 0;
+
+        queue<TreeNode*> q;
+        vector<TreeNode*> bfsOrder;
+        q.push(root);
+
+        while (!q.empty()) {
+            TreeNode* node = q.front();
+            q.pop();
+            bfsOrder.push_back(node);
+            if (node->left) q.push(node->left);
+            if (node->right) q.push(node->right);
+        }
+
+        reverse(bfsOrder.begin(), bfsOrder.end());
+
+        unordered_map<TreeNode*, tuple<bool,int,int,int>> info;
+        int maxSum = 0;
+
+        for (auto node : bfsOrder) {
+            bool leftBST = true, rightBST = true;
+            int leftMin = node->val, rightMax = node->val;
+            int leftSum = 0, rightSum = 0;
+
+            if (node->left) {
+                auto [isBST, lmin, lmax, lsum] = info[node->left];
+                leftBST = isBST && lmax < node->val;
+                leftMin = lmin;
+                leftSum = lsum;
+            }
+
+            if (node->right) {
+                auto [isBST, rmin, rmax, rsum] = info[node->right];
+                rightBST = isBST && rmin > node->val;
+                rightMax = rmax;
+                rightSum = rsum;
+            }
+
+            if (leftBST && rightBST) {
+                int sum = node->val + leftSum + rightSum;
+                int minVal = node->left ? leftMin : node->val;
+                int maxVal = node->right ? rightMax : node->val;
+                info[node] = {true, minVal, maxVal, sum};
+                maxSum = max(maxSum, sum);
+            } else {
+                info[node] = {false, 0, 0, 0};
+            }
+        }
+
+        return maxSum;
     }
 };
