@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janviuttam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/janviuttam/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/janviuttam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/janviuttam/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/janviuttam/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/janviuttam/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/janviuttam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/janviuttam/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/janviuttam/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
