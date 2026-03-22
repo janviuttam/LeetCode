@@ -15,7 +15,7 @@ public:
 
     bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
         n=mat.size();
-        for(int i=0;i<=4;i++) {
+        for(int i=0;i<4;i++) {
             bool equal=true;
             for(int j=0;j<n;j++){
                 for(int k=0;k<n;k++){
