@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/janviuttam/LeetCode/tree/master/0792-binary-search) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/janviuttam/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/janviuttam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janviuttam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/janviuttam/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/janviuttam/LeetCode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/janviuttam/LeetCode/tree/master/0463-island-perimeter) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/janviuttam/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janviuttam/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Memoization
