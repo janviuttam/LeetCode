@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/janviuttam/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/janviuttam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2906-construct-product-matrix](https://github.com/janviuttam/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janviuttam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/janviuttam/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janviuttam/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/janviuttam/LeetCode/tree/master/0463-island-perimeter) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/janviuttam/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/janviuttam/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janviuttam/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Memoization
 |  |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/janviuttam/LeetCode/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
