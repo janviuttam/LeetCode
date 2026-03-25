@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/janviuttam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/janviuttam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [3643-flip-square-submatrix-vertically](https://github.com/janviuttam/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/janviuttam/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janviuttam/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/janviuttam/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/janviuttam/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/janviuttam/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/janviuttam/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janviuttam/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/janviuttam/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Memoization
 |  |
 | ------- |
