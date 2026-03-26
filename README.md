@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/janviuttam/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/janviuttam/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1377-frog-position-after-t-seconds](https://github.com/janviuttam/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/janviuttam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/janviuttam/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/janviuttam/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1377-frog-position-after-t-seconds](https://github.com/janviuttam/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/janviuttam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/janviuttam/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/janviuttam/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1377-frog-position-after-t-seconds](https://github.com/janviuttam/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [2121-find-if-path-exists-in-graph](https://github.com/janviuttam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/janviuttam/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+## Graph Theory
+|  |
+| ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/janviuttam/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
