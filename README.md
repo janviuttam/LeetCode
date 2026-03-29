@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/janviuttam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/janviuttam/LeetCode/tree/master/0043-multiply-strings) |
 | [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/janviuttam/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Stack
 |  |
 | ------- |
