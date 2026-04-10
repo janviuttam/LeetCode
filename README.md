@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/janviuttam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/janviuttam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/janviuttam/LeetCode/tree/master/0043-multiply-strings) |
+| [0205-isomorphic-strings](https://github.com/janviuttam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/janviuttam/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/janviuttam/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janviuttam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/janviuttam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/janviuttam/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/janviuttam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janviuttam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
