@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/janviuttam/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/janviuttam/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/janviuttam/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/janviuttam/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/janviuttam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janviuttam/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/janviuttam/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -436,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/janviuttam/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/janviuttam/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
