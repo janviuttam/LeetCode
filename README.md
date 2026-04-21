@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/janviuttam/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janviuttam/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/janviuttam/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/janviuttam/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/janviuttam/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/janviuttam/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/janviuttam/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janviuttam/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/janviuttam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/janviuttam/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janviuttam/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
