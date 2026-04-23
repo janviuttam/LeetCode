@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/janviuttam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janviuttam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-walking-robot-simulation](https://github.com/janviuttam/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [2615-sum-of-distances](https://github.com/janviuttam/LeetCode/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/janviuttam/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/janviuttam/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Array
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/janviuttam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/janviuttam/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janviuttam/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/janviuttam/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/janviuttam/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janviuttam/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janviuttam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/janviuttam/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/janviuttam/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/janviuttam/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
