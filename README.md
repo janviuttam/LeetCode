@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/janviuttam/LeetCode/tree/master/0792-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/janviuttam/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/janviuttam/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janviuttam/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/janviuttam/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/janviuttam/LeetCode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/janviuttam/LeetCode/tree/master/0463-island-perimeter) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/janviuttam/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/janviuttam/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/janviuttam/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/janviuttam/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/janviuttam/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/janviuttam/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janviuttam/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/janviuttam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/janviuttam/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/janviuttam/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/janviuttam/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/janviuttam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/janviuttam/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janviuttam/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Merge Sort
 |  |
