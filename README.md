@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/janviuttam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/janviuttam/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/janviuttam/LeetCode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/janviuttam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janviuttam/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/janviuttam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/janviuttam/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/janviuttam/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/janviuttam/LeetCode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/janviuttam/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
