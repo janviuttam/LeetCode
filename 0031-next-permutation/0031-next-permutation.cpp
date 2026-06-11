@@ -1,27 +1,25 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
-        int i = n - 2;
-
-        // Step 1: find breakpoint
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
-
-        // Step 2: if breakpoint exists
-        if (i >= 0) {
-            int j = n - 1;
-
-            // find next greater element
-            while (nums[j] <= nums[i]) {
-                j--;
+        int n=nums.size(), bp=-1;
+        for(int i=n-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                bp=i;
+                break;
             }
-
-            swap(nums[i], nums[j]);
         }
+        //If no breakpoint
+        if(bp == -1) {
+            reverse(nums.begin(), nums.end());
+            return;
+        }
+        for(int i=n-1;i>=0;i--){
+            if(nums[i]>nums[bp]){
+                swap(nums[i],nums[bp]);
+                break;
+            }
+        }
+        reverse(nums.begin()+bp+1,nums.end());
 
-        // Step 3: reverse suffix
-        reverse(nums.begin() + i + 1, nums.end());
     }
 };
