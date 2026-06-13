@@ -1,13 +1,24 @@
 class Solution {
 public:
+
+    int bsearch(vector<int>& nums, int target, int low, int high)
+    {
+        if(low > high)
+            return low;
+
+        int mid = low + (high - low) / 2;
+
+        if(nums[mid] == target)
+            return mid;
+
+        if(target < nums[mid])
+            return bsearch(nums, target, low, mid - 1);
+
+        return bsearch(nums, target, mid + 1, high);
+    }
+
     int searchInsert(vector<int>& nums, int target) {
-        int i,index=0;
-        for(i=0;i<nums.size();i++)
-        {
-            if(target<=nums[i])
-                return index;
-            index++;
-        }
-        return index;
+
+        return bsearch(nums, target, 0, nums.size()-1);
     }
 };
