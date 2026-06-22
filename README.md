@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/janviuttam/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/janviuttam/LeetCode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/janviuttam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/janviuttam/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janviuttam/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/janviuttam/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/janviuttam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janviuttam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-walking-robot-simulation](https://github.com/janviuttam/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/janviuttam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2615-sum-of-distances](https://github.com/janviuttam/LeetCode/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/janviuttam/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/janviuttam/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/janviuttam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/janviuttam/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
