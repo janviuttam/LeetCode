@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/janviuttam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/janviuttam/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/janviuttam/LeetCode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/janviuttam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/janviuttam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/janviuttam/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/janviuttam/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janviuttam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/janviuttam/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/janviuttam/LeetCode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/janviuttam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janviuttam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/janviuttam/LeetCode/tree/master/0283-move-zeroes) |
