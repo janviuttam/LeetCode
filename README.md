@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/janviuttam/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/janviuttam/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/janviuttam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/janviuttam/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/janviuttam/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/janviuttam/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/janviuttam/LeetCode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/janviuttam/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janviuttam/LeetCode/tree/master/0090-subsets-ii) |
+| [0342-power-of-four](https://github.com/janviuttam/LeetCode/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
