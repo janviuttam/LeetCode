@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/janviuttam/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/janviuttam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1952-three-divisors](https://github.com/janviuttam/LeetCode/tree/master/1952-three-divisors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janviuttam/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2413-smallest-even-multiple](https://github.com/janviuttam/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janviuttam/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/janviuttam/LeetCode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/janviuttam/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/janviuttam/LeetCode/tree/master/1952-three-divisors) |
 | [3546-equal-sum-grid-partition-i](https://github.com/janviuttam/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Graph Theory
 |  |
