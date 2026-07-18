@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/janviuttam/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/janviuttam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janviuttam/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2413-smallest-even-multiple](https://github.com/janviuttam/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janviuttam/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3783-mirror-distance-of-an-integer](https://github.com/janviuttam/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/janviuttam/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
 | ------- |
