@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/janviuttam/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janviuttam/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/janviuttam/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/janviuttam/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/janviuttam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/janviuttam/LeetCode/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/janviuttam/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/janviuttam/LeetCode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
