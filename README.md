@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/janviuttam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/janviuttam/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/janviuttam/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/janviuttam/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/janviuttam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/janviuttam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/janviuttam/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/janviuttam/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/janviuttam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/janviuttam/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/janviuttam/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/janviuttam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janviuttam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/janviuttam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/janviuttam/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/janviuttam/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/janviuttam/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/janviuttam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/janviuttam/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/janviuttam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/janviuttam/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/janviuttam/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/janviuttam/LeetCode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/janviuttam/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/janviuttam/LeetCode/tree/master/0217-contains-duplicate) |
