@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janviuttam/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2413-smallest-even-multiple](https://github.com/janviuttam/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janviuttam/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3536-maximum-product-of-two-digits](https://github.com/janviuttam/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/janviuttam/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/janviuttam/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janviuttam/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/janviuttam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/janviuttam/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janviuttam/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
