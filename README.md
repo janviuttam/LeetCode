@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/janviuttam/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/janviuttam/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/janviuttam/LeetCode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/janviuttam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/janviuttam/LeetCode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/janviuttam/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/janviuttam/LeetCode/tree/master/0463-island-perimeter) |
 | [0525-contiguous-array](https://github.com/janviuttam/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/janviuttam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/janviuttam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/janviuttam/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janviuttam/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/janviuttam/LeetCode/tree/master/0792-binary-search) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/janviuttam/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/janviuttam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/janviuttam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/janviuttam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/janviuttam/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janviuttam/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/janviuttam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
