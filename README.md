@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/janviuttam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2615-sum-of-distances](https://github.com/janviuttam/LeetCode/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/janviuttam/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3731-find-missing-elements](https://github.com/janviuttam/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/janviuttam/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Array
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janviuttam/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/janviuttam/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/janviuttam/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3731-find-missing-elements](https://github.com/janviuttam/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/janviuttam/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/janviuttam/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Monotonic Stack
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/janviuttam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/janviuttam/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janviuttam/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3731-find-missing-elements](https://github.com/janviuttam/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
