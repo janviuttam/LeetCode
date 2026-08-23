@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/janviuttam/LeetCode/tree/master/1861-rotating-the-box) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/janviuttam/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/janviuttam/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/janviuttam/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Recursion
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/janviuttam/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/janviuttam/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/janviuttam/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/janviuttam/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Monotonic Stack
 |  |
 | ------- |
