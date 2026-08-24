@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/janviuttam/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/janviuttam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/janviuttam/LeetCode/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/janviuttam/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/janviuttam/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/janviuttam/LeetCode/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/janviuttam/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/janviuttam/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/janviuttam/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/janviuttam/LeetCode/tree/master/0396-rotate-function) |
+| [0516-longest-palindromic-subsequence](https://github.com/janviuttam/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0788-rotated-digits](https://github.com/janviuttam/LeetCode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/janviuttam/LeetCode/tree/master/1143-longest-common-subsequence) |
