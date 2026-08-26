@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/janviuttam/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/janviuttam/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/janviuttam/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1603-design-parking-system](https://github.com/janviuttam/LeetCode/tree/master/1603-design-parking-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/janviuttam/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/janviuttam/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janviuttam/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/janviuttam/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/janviuttam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/janviuttam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1603-design-parking-system](https://github.com/janviuttam/LeetCode/tree/master/1603-design-parking-system) |
 | [2833-furthest-point-from-origin](https://github.com/janviuttam/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/janviuttam/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1603-design-parking-system](https://github.com/janviuttam/LeetCode/tree/master/1603-design-parking-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/janviuttam/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Greedy
 |  |
