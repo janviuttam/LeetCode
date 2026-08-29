@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/janviuttam/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/janviuttam/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/janviuttam/LeetCode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/janviuttam/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [1075-project-employees-i](https://github.com/janviuttam/LeetCode/tree/master/1075-project-employees-i) |
 | [1179-reformat-department-table](https://github.com/janviuttam/LeetCode/tree/master/1179-reformat-department-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/janviuttam/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
