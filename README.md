@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/janviuttam/LeetCode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janviuttam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/janviuttam/LeetCode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/janviuttam/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/janviuttam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/janviuttam/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/janviuttam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -653,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/janviuttam/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/janviuttam/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
