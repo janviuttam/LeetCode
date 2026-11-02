@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/janviuttam/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/janviuttam/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janviuttam/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/janviuttam/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/janviuttam/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janviuttam/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/janviuttam/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
