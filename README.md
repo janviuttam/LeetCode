@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/janviuttam/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/janviuttam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/janviuttam/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2351-first-letter-to-appear-twice](https://github.com/janviuttam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/janviuttam/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janviuttam/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/janviuttam/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/janviuttam/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/janviuttam/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/janviuttam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2351-first-letter-to-appear-twice](https://github.com/janviuttam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2615-sum-of-distances](https://github.com/janviuttam/LeetCode/tree/master/2615-sum-of-distances) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janviuttam/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3488-closest-equal-element-queries](https://github.com/janviuttam/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/janviuttam/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janviuttam/LeetCode/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/janviuttam/LeetCode/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/janviuttam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/janviuttam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/janviuttam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1603-design-parking-system](https://github.com/janviuttam/LeetCode/tree/master/1603-design-parking-system) |
+| [2351-first-letter-to-appear-twice](https://github.com/janviuttam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/janviuttam/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
